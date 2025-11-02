@@ -48,10 +48,10 @@
   </div>
 
   <div class="sidebar">
-    <a href="#">Home</a>
-    <a href="#">Produk</a>
+    <a href="/">Home</a>
+    <a href="/produk">Produk</a>
     <input type="text" placeholder="Search">
-  </div>
+</div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
